@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XqGzgYFcfADye2jla78EqLZVVV8gah24iF/SXzq5l2LMrdQStLWT0gjlQwMC+M0enSTwEQxkSjFyS4ucnwNtRw==",
+  "success": true,
+  "projectFilePath": "D:\\Phase4\\SL\\Section7\\BankLoginPage\\BankLoginPage\\BankLoginPage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KALPANA\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
